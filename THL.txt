@@ -1,5 +1,12 @@
 SCLKm
 SLKmmn
+<<<<<<< HEAD
 2131
 sdas
 ergrdsa
+=======
+asdSDsa
+sada
+saknmw
+>>>>>>> feature/2
+fdfasd
